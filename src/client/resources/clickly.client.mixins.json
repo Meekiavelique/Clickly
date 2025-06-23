@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.meekdev.clickly.client.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "clickly.refmap.json",
+  "mixins": [],
+  "client": [
+    "InGameHudMixin",
+    "TitleScreenMixin",
+    "GameMenuScreenMixin",
+    "MultiplayerServerListMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

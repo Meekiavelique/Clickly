@@ -1,0 +1,32 @@
+{
+  "category.clickly": "Clickly",
+  "key.clickly.toggle_overlay": "Toggle Overlay",
+  "key.clickly.open_groups": "Open Groups",
+
+  "clickly.notification.connected": "Connected to Clickly",
+  "clickly.notification.disconnected": "Disconnected from Clickly",
+  "clickly.notification.group_created": "Group Created",
+  "clickly.notification.group_joined": "Joined Group",
+  "clickly.notification.group_left": "Left Group",
+
+  "clickly.overlay.no_groups": "No groups",
+  "clickly.overlay.connected": "Connected",
+  "clickly.overlay.disconnected": "Disconnected",
+  "clickly.overlay.groups": "Groups:",
+
+  "clickly.command.create.success": "Created group: %s",
+  "clickly.command.create.failed": "Failed to create group: %s",
+  "clickly.command.join.success": "Successfully joined group!",
+  "clickly.command.join.failed": "Failed to join group. Invalid code or group is full.",
+  "clickly.command.leave.success": "Left group successfully",
+  "clickly.command.leave.failed": "Failed to leave group",
+  "clickly.command.ping.sent": "Location ping sent: %d, %d, %d",
+  "clickly.command.not_connected": "Not connected to Clickly server",
+  "clickly.command.no_groups": "You are not in any groups",
+  "clickly.command.overlay.hidden": "Overlay hidden",
+  "clickly.command.overlay.shown": "Overlay shown",
+
+  "clickly.chat.prefix": "[CLICKLY]",
+  "clickly.error.not_connected": "Not connected to Clickly server",
+  "clickly.error.no_groups": "You are not in any groups"
+}
