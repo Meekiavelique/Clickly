@@ -6,10 +6,11 @@
   "refmap": "clickly.refmap.json",
   "mixins": [],
   "client": [
-    "InGameHudMixin",
-    "TitleScreenMixin",
     "GameMenuScreenMixin",
-    "MultiplayerServerListMixin"
+    "InGameHudMixin",
+    "MultiplayerServerListMixin",
+    "TitleScreenMixin",
+    "WorldRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
